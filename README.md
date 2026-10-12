@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-    <img src="image/pigeon.png" alt="個人照片" width="400">
+    <img src="image/pigeon.jpg" alt="個人照片" width="400">
 </div>
 ---
 
