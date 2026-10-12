@@ -3,9 +3,7 @@
 
 <br>
 
-<div align="center">
-    <img src="image/pigeon.jpg" alt="個人照片" width="400">
-</div>
+
 ---
 
 ## 1. 基本資料
@@ -19,6 +17,9 @@
 | **Email** | saiiwakesaki@gmail.com |
 | **GitHub** | [saiiwake](https://github.com/saiiwake) |
 
+<div align="center">
+    <img src="image/pigeon.jpg" alt="個人照片" width="400">
+</div>
 ---
 
 ## 2. 關於我 About Me
