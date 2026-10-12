@@ -3,10 +3,6 @@
 
 <br>
 
-<div align="center">
-    <img src="pigeon.png" alt="個人照片" width="400">
-</div>
-
 ---
 
 ## 1. 基本資料
