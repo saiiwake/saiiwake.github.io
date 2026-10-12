@@ -10,7 +10,7 @@
 | **學校 / University** | 臺灣海洋大學 |
 | **家鄉 / Hometown** | 桃園 |
 | **Email** | saiiwakesaki@gmail.com |
-| **GitHub** | [saiiwake](https://github.com/saiiwake) |
+| **GitHub** | [https://github.com/saiiwake](https://github.com/saiiwake) |
 ### 📷 個人照片
 <div align="center">
     <img src="image/pigeon.jpg" alt="個人照片" width="400">
@@ -20,7 +20,7 @@
 
 ## 2. 關於我 About Me
 
-大家好，我是劉恩佑，目前就讀臺灣海洋大學生命科學暨生物科技學系一年級。我對生命科學、電腦與人工智慧很有興趣。進入大學後，我希望除了學習專業知識之外，也能培養程式設計、資料分析與外語能力，尤其是英文。
+你各位好，我是劉恩佑，目前就讀臺灣海洋大學生命科學暨生物科技學系一年級。我對生命科學、電腦與人工智慧很有興趣。進入大學後，我希望除了學習專業知識之外，也能培養程式設計、資料分析與外語能力，尤其是英文。
 
 ---
 
